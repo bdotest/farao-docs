@@ -15,7 +15,7 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-  <p>FARAO (for Fully Autonomous Remedial Actions Optimization) is a modular toolbox based on powsybl framework.</br>
+  <p>FARAO (for Fully Autonomous Remedial Actions Optimization) is a modular toolbox based on powsybl framework.<br/>
   It provides tools for coordination studies in power systems.
   header_text_feature_image: assets/img/Hans_Otto_Theater_Potsdam_-_fake_colors_cut.jpg
   footer_text: >
